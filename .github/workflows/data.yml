@@ -1,0 +1,40 @@
+name: data-botiquin-las-condes
+
+on:
+  schedule:
+    - cron: '0 0 8 * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: repo checkout
+        uses: actions/checkout@v2
+
+      - name: python setup
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: python packages installation
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r dependencies.txt
+      - name: get botiquin data
+        run: python botiquin.py
+
+      - name: commit changes
+        continue-on-error: true
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Updated botiquin monthly data" -a
+        
+      - name: push changes
+        continue-on-error: true
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}\
+          branch: main
