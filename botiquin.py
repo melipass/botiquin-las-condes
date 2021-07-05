@@ -12,7 +12,7 @@ def obtain_table():
     return table[0]
 
 def change_data_capture(df):
-    last_file = os.listdir('data/')[-2]
+    last_file = sorted(os.listdir('data/'))[-2]
     old_df = pd.DataFrame(pd.read_csv('data/' + last_file))
     old_df = old_df.drop(old_df.columns[0], axis=1)
     print(old_df)
