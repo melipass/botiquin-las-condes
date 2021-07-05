@@ -15,10 +15,6 @@ def change_data_capture(df):
     last_file = sorted(os.listdir('data/'))[-2]
     old_df = pd.DataFrame(pd.read_csv('data/' + last_file))
     old_df = old_df.drop(old_df.columns[0], axis=1)
-    print(old_df)
-    print(df)
-    print(df.equals(old_df))
-    print(not df.equals(old_df))
     return not df.equals(old_df)
 
 df = obtain_table()
