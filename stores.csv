@@ -1,41 +1,42 @@
-Avda. Apoquindo N° 5855 - 5879
-Avda. Tomas Moro N° 20
-Avda. Las Condes N° 12145
-Avda. Las Condes N° 8231
-Avda. Cuarto Centenario N° 933
-Avda. El Bosque Norte N° 198
-Avda. Colón N° 6064
-Avda. Padre Hurtado N° 40
-Avda. Francisco Bilbao N°8750 Local 3048
-Avda. Américo Vespucio N° 1463
-Avda. Apoquindo N° 4671
-Las Terrazas N° 1203 - 1205
-Avda. Cristóbal Colón N° 4299 - 4317
-Avda. Presidente Kennedy N° 9001 Local 2110
-Avda. Francisco Bilbao N°4144 Local 160
-Martín de Zamora N°2911 al 2939
-Avda. La Plaza Nº 590 L-11
-Avda. Las Condes N° 14184, 14151 local 1
-Padre Hurtado N° 1621 Local 3-4-5
-Avda. Apoquindo N°5240 L-2
-Avda. Manquehue N° 457  L-1
-Avda. Apoquindo N° 3363 L-2
-Patagonia N° 99
-Padre Hurtado N° 751
-Cuarto Centenario N° 1016
-Avda. Cristóbal Colón N°6550 L-6
-Roger de Flor N° 2800 L-D y E
-Avda. Apoquindo N° 3472
-Avda. Camino Las Flores N° 12640 Local 6 y 7
-Avda. La Plaza N° 2501
-Rosario Norte N° 532 Local 103
-Avda. Apoquindo N° 2827 Local 101,102,106 y 107
-Avda. Vitacura N° 2710 Local 102
-Avda. Cristóbal Colón N° 4299 - 4317
-Avenida Cristobal Colón N° 5081
-Avda. Padre Hurtado Sur N° 875 L-BS1421 BS1425
-Alcantara N° 44
-Apoquindo N° 4610 Local 1
-Camino el Alba N° 11969 Local 211
-Avda. Isidora Goyenechea N° 3280 Local 3
-Av. Presidente Kennedy 5601 local 2. 18
+address,county,region,parking-open,schedule,lat,lon
+Avda. Apoquindo N° 5855 - 5879,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:00 - 21:00,-33.4088948,-70.56916
+Avda. Tomas Moro N° 20,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:00-21:00,-33.4083914,-70.55182359999999
+Avda. Las Condes N° 12145,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Lunes a Domingo: 00:00-23:59,-33.3739131,-70.5202523
+Avda. Las Condes N° 8231,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:00 -19:00,-33.3983044,-70.551147
+Avda. Cuarto Centenario N° 933,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: Cerrado,-33.417108,-70.5544287
+Avda. El Bosque Norte N° 198,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Sábado y Domingo: Cerrado,-33.4149972,-70.6014881
+Avda. Colón N° 6064,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Sábado y Domingo: 09:00 - 22:00,-33.4231818,-70.5311935
+Avda. Padre Hurtado N° 40,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Lunes a Domingo: 00:00-23:59,-33.3941372,-70.5458286
+Avda. Francisco Bilbao N°8750 Local 3048,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Lunes a Domingo: 08:30 - 20:00,-33.4287187,-70.5405628
+Avda. Américo Vespucio N° 1463,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:00 - 21:00,-33.4006416,-70.58692289999999
+Avda. Apoquindo N° 4671,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: Cerrado,-33.4131426,-70.5807516
+Las Terrazas N° 1203 - 1205,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:00-20:30,-33.3924837,-70.5149203
+Avda. Cristóbal Colón N° 4299 - 4317,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 09:00 - 21:00,-33.4238065,-70.5806336
+Avda. Presidente Kennedy N° 9001 Local 2110,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Lunes a Domingo: 10:00-20:00,-33.3908732,-70.5462835
+Avda. Francisco Bilbao N°4144 Local 160,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 09:00 - 21:00,-33.4313383,-70.5787598
+Martín de Zamora N°2911 al 2939,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Sábado y Domingo: 10:00 - 20:00,-33.4245259,-70.5925762
+Avda. La Plaza Nº 590 L-11,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 09:00 - 21:00,-33.3901522,-70.498938
+"Avda. Las Condes N° 14184, 14151 local 1",Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:00 - 21:00,-33.3685821,-70.5010509
+Padre Hurtado N° 1621 Local 3-4-5,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:00 - 20:00,-33.4254755,-70.55581769999999
+Avda. Apoquindo N°5240 L-2,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: Cerrado,-33.4104941,-70.57386710000002
+Avda. Manquehue N° 457  L-1,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:30-20:30,-33.4040522,-70.568393
+Avda. Apoquindo N° 3363 L-2,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:00-20:00,-33.4167384,-70.59488259999999
+Patagonia N° 99,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Viernes: 08:30 - 20:00,-33.4092593,-70.5439942
+Padre Hurtado N° 751,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 10:00-20:00,-33.4011136,-70.5446355
+Cuarto Centenario N° 1016,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 09:00 - 20:00,-33.4186798,-70.5521916
+Avda. Cristóbal Colón N°6550 L-6,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 11:00 - 20:30,-33.4169858,-70.56061559999999
+Roger de Flor N° 2800 L-D y E,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: Cerrado,-33.41667,-70.600708
+Avda. Apoquindo N° 3472,Las condes,METROPOLITANA DE SANTIAGO,No disponible,Domingo: Cerrado,-33.4160299,-70.593881
+Avda. Camino Las Flores N° 12640 Local 6 y 7,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: Cerrado,-33.3943032,-70.515951
+Avda. La Plaza N° 2501,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: Cerrado,-33.4026972,-70.507784
+Rosario Norte N° 532 Local 103,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Sábado y Domingo: Cerrado,-33.404904,-70.572863
+"Avda. Apoquindo N° 2827 Local 101,102,106 y 107",Las condes,METROPOLITANA DE SANTIAGO,Disponible,Sábado y Domingo: Cerrado,-33.4181094,-70.60051179999999
+Avda. Vitacura N° 2710 Local 102,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Sábado y Domingo: Cerrado,-33.4157331,-70.6044045
+Avda. Cristóbal Colón N° 4299 - 4317,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Lunes a Domingo: CERRADO,-33.4238065,-70.5806336
+Avenida Cristobal Colón N° 5081,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: Cerrado,-33.4188642,-70.5721906
+Avda. Padre Hurtado Sur N° 875 L-BS1421 BS1425,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Lunes a Domingo: 10:00 - 20:00,-33.4137563,-70.5402596
+Alcantara N° 44,Las condes,METROPOLITANA DE SANTIAGO,No disponible,Sábado y Domingo: Cerrado,-33.4156471,-70.5894527
+Apoquindo N° 4610 Local 1,Las condes,METROPOLITANA DE SANTIAGO,No disponible,Domingo: Cerrado,-33.4130295,-70.5842577
+ Camino el Alba N° 11969 Local 211,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: 9:00-21:00,-33.4018761,-70.5165323
+Avda. Isidora Goyenechea N° 3280 Local 3,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Domingo: Cerrado,-33.4018761,-70.5165323
+Av. Presidente Kennedy 5601 local 2. 18,Las condes,METROPOLITANA DE SANTIAGO,Disponible,Lunes a Domingo: 10:00 - 20:00,-33.4018761,-70.5165323
